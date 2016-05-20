@@ -2,4 +2,4 @@
 applications:
   - name: predix-microservice-cf-jsr-neha
     buildpack: java_buildpack
-    path: target/predix-microservice-cf-jsr-neha-1.1.6.jar
+    path: target/predix-microservice-cf-jsr-1.1.6.jar
